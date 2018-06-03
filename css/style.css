@@ -34,10 +34,11 @@ button {
     margin-bottom: 15px;
 }
 
-.name,
-.email,
-.age {
-    margin-right: 25px;
+#name-label::after,
+#email-label::after,
+#number-label::after {
+    content: "*";
+    color: red;
 }
 
 .role,
