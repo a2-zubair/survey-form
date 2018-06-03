@@ -1,0 +1,46 @@
+body{
+    font-size:16px;
+    margin:10px 0 10px 0;
+}
+
+h1{
+    text-align: center;
+    font-size:50px;
+}
+
+button{
+    margin-bottom:10px;
+    
+}
+
+/* custom */
+
+.main{
+    border: 1px solid lightgray;
+    background-color: aliceblue;
+    box-shadow: 1px 1px 5px gray;
+}
+
+#description{
+    text-align: center;
+    font-size:18px;
+    letter-spacing:1px;
+    text-transform:lowercase;
+    margin-bottom: 80px;
+}
+
+.top-part{
+    margin-bottom: 15px;
+}
+
+.name, .email, .age{
+    margin-right:25px;
+}
+
+.role, .recon, .like{
+    margin-bottom:15px;
+}
+
+.btn-box{
+    text-align: center;
+}
